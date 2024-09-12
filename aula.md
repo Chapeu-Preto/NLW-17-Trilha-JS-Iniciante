@@ -34,8 +34,9 @@ como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
  ## Operadores
 
- - [x] Operador de atribuição de valor representado pelo " = "
- - [x] Operador de Concatenação representado pelo sinal de "+"
+ - [x] Operador de atribuição de valor representado pelo: =
+ - [x] Operador de Concatenação representado pelo sinal de: +
+ - [x] Operadores de Comparação: ==, !=, <=, >=, <, >
 
  ## Estrutura de Dados:
 
@@ -62,6 +63,7 @@ como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
  # Condicionais
 
  - [x] switch
+ - [x] if/else
 
  ## Módulos em Node.js:
 
@@ -70,4 +72,4 @@ como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
  ## Programação Assíngrona e Promessas
 
- 
+ - [x] Uso de funções assíncronas (async/await)
