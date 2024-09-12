@@ -12,6 +12,10 @@ const start = async () => {
                 value: "Cadastrar"
               },
               {
+                name: "Listar Metas",
+                value: "Listar"
+              },
+              {
                 name: "Sair",
                 value: "Sair"
               }
@@ -19,13 +23,14 @@ const start = async () => {
         })
 
         switch (opcao) {
-            case "cadastrar":
+            case "Cadastrar":
                 console.log("vamos cadastrar")
                 break
-            case "listar":
+            case "Listar":
                 console.log("vamos listar")
                 break
-            case "sair":
+            case "Sair":
+                console.log("Até a próxima!")
                 return
         }
     }

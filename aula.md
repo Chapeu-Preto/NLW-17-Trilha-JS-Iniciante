@@ -67,3 +67,7 @@ como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
  - [x] Importação de módulos (require, CommonJS)
  - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+ ## Programação Assíngrona e Promessas
+
+ 
