@@ -44,7 +44,7 @@ como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
  ## Arrays:
 
  - [x] uma lista que contém qualquer tipo de dados
- - [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+ - [x] Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
  ### Objetivos:
 
